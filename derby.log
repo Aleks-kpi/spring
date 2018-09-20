@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 10 17:38:27 EEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0165-2446-3c28-00000e07bb80 
+on database directory C:\Users\Oleksandr_Huzenko\Desktop\EduProject\Spring Core #41.2\spring-core-hometask-skeleton\database with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Oleksandr_Huzenko/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\Oleksandr_Huzenko\Desktop\EduProject\Spring Core #41.2\spring-core-hometask-skeleton
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
